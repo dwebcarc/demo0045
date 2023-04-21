@@ -1,1 +1,2 @@
 comando git para bajar los cambios de la nuve al compu
+modificado desde el repo cesar
