@@ -1,2 +1,3 @@
 comando git para bajar los cambios de la nuve al compu
+modificacion desde el repo
 modificado desde el pc segunda vez
